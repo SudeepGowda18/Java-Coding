@@ -9,6 +9,7 @@ public class Ascndesn {
 
     public static void main(String[] args) {
         Integer[] arr = { 5, 4, 6, 2, 1, 3, 8, 9, 7 };
+        sort(arr);
         System.out.println("Modified String is : " + Arrays.toString(arr));
     }
 }
